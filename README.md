@@ -12,4 +12,4 @@
 
 | Success | History | Profile |
 |------|-------|------|
-| ![Success](https://github.com/user-attachments/assets/c07619d5-b780-4931-af24-1b2573e7427) | ![History](https://github.com/user-attachments/assets/0626350f-9154-49fd-bbdc-68d74729fefe) | ![Profile](https://github.com/user-attachments/assets/60464070-efab-4102-b1f0-e9f22d45a56b) |
+| ![Success](https://github.com/user-attachments/assets/61b13771-fdcf-4a22-ac16-75875e14bbec) | ![History](https://github.com/user-attachments/assets/0626350f-9154-49fd-bbdc-68d74729fefe) | ![Profile](https://github.com/user-attachments/assets/60464070-efab-4102-b1f0-e9f22d45a56b) |
