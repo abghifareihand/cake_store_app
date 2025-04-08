@@ -1,4 +1,3 @@
 class AppConstants {
-  // static const String baseUrl = 'http://192.168.1.9:8000';
-  static const String baseUrl = 'https://4a76-180-252-163-183.ngrok-free.app';
+  static const String baseUrl = 'https://12af-180-252-110-88.ngrok-free.app';
 }
